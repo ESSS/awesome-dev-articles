@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [The Ugly American Programmer](https://blog.codinghorror.com/the-ugly-american-programmer/) - Jeff Atwood
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Chris Beams
 * [The Opposite of Fitts' Law](https://blog.codinghorror.com/the-opposite-of-fitts-law/) - Jeff Atwood
+* [Empty - The Codeless Code](http://thecodelesscode.com/case/6) - Qi
 * [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) - Joel Spolsky
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
 * [Move Fast and Fix Things](https://githubengineering.com/move-fast/) - Vicent Martí
