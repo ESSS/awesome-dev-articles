@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Clean Code: A Handbook of Agile Software Craftsmanship ](https://www.goodreads.com/book/show/3735293-clean-code) - Robert C. Martin
 * [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44936.Refactoring) - Martin Fowler
+* [Test Driven Development: By Example ](https://www.goodreads.com/book/show/387190.Test_Driven_Development) - Kent Beck
 * [The Pragmatic Programmer: from jorneyman to master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) - Andrew Hunt and David Thomas
 * [Working Effectively With Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) - Michael C. Feathers
 
