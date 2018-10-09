@@ -25,6 +25,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go&t=0s&list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA&index=4) - Raymond Hettinger
 
+# Books
+
+* [Clean Code: A Handbook of Agile Software Craftsmanship ](https://www.goodreads.com/book/show/3735293-clean-code) - Robert C. Martin
+* [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44936.Refactoring) - Martin Fowler
+* [The Pragmatic Programmer: from jorneyman to master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) - Andrew Hunt and David Thomas
+* [Working Effectively With Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) - Michael C. Feathers
+
 ### How to Contribute
 
 The goal is to create a reading list of important articles for any developer. This is NOT a "pool of interesting articles"
