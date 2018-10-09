@@ -23,7 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 # Talks
 
-[Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go&t=0s&list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA&index=4) - Raymond Hettinger
+* [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go&t=0s&list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA&index=4) - Raymond Hettinger
 
 ### How to Contribute
 
@@ -40,7 +40,7 @@ To contirbute, if you are outside ESSS Org, edit this file (you can do this thro
 title/link/author in the correct position to keep the list sorted and submit the change as a PR.
 
 If you are inside ESSS Org, first share the article/talk via Chat or on Dev mailing list. If you get a good
-number of thumbs up (>=3), submit the PR as explained above.
+number of thumbs up `>=3`, submit the PR as explained above.
 
 
 
