@@ -47,7 +47,7 @@ Some criteria we used to create the list:
 1. The article/talk is a well done summary of one or more good programming practices (e.g., [Steps to better code](https://medium.com/@isaaclyman/steps-to-better-code-e6c3cce0c7f9))
 2. The article/talk presents a very clever solution for some problem (e.g., [Move Fast and Fix Things](https://githubengineering.com/move-fast/))
 
-To contirbute, if you are outside ESSS Org, edit this file (you can do this through the GitHub UI), add the
+To contribute, if you are outside ESSS Org, edit this file (you can do this through the GitHub UI), add the
 title/link/author in the correct position to keep the list sorted and submit the change as a PR.
 
 If you are inside ESSS Org, first share the article/talk via Chat or on Dev mailing list. If you get a good
