@@ -14,16 +14,27 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [The Opposite of Fitts' Law](https://blog.codinghorror.com/the-opposite-of-fitts-law/) - Jeff Atwood
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
 * [The Ugly American Programmer](https://blog.codinghorror.com/the-ugly-american-programmer/) - Jeff Atwood
+* [Python Culture](https://svn.python.org/projects/sandbox/trunk/dev/culture.rst) - python.org historic document
 
 ### Intermediary/Advanced
 
 * [Move Fast and Fix Things](https://githubengineering.com/move-fast/) - Vicent Martí
 * [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) -  Nathaniel J. Smith
 * [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) - Joel Spolsky
+* [Design in Construction](https://books.google.com/books?id=LpVCAwAAQBAJ&lpg=PR1&pg=PA73#v=onepage&f=false) - Chapter 5 of Steve McConnell's book "Code Complete"
 
 # Talks
 
 * [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go&t=0s&list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA&index=4) - Raymond Hettinger
+
+# Culture
+
+* [Top 7 programmers bad habits](https://web.archive.org/web/20110803100310/http://www.makinggoodsoftware.com/2011/05/23/top-7-programmers-bad-habits) - Alberto Gutierrez
+* [Code culture problem](http://fraustollc.com/blog/shit_code/) - Nolan Frausto
+
+# Funny
+
+* [How To Write Unmaintainable Code](https://web.archive.org/web/20171224114025id_/https://www.thc.org/root/phun/unmaintain.html) - Roedy Green
 
 ### How to Contribute
 
@@ -36,11 +47,8 @@ Some criteria we used to create the list:
 1. The article/talk is a well done summary of one or more good programming practices (e.g., [Steps to better code](https://medium.com/@isaaclyman/steps-to-better-code-e6c3cce0c7f9))
 2. The article/talk presents a very clever solution for some problem (e.g., [Move Fast and Fix Things](https://githubengineering.com/move-fast/))
 
-To contirbute, if you are outside ESSS Org, edit this file (you can do this through the GitHub UI), add the 
+To contirbute, if you are outside ESSS Org, edit this file (you can do this through the GitHub UI), add the
 title/link/author in the correct position to keep the list sorted and submit the change as a PR.
 
 If you are inside ESSS Org, first share the article/talk via Chat or on Dev mailing list. If you get a good
 number of thumbs up `>=3`, submit the PR as explained above.
-
-
-
