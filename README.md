@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Move Fast and Fix Things](https://githubengineering.com/move-fast/) - Vicent Martí
 * [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) -  Nathaniel J. Smith
 * [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) - Joel Spolsky
-* [Design in Construction](https://books.google.com/books?id=LpVCAwAAQBAJ&lpg=PR1&pg=PA73#v=onepage&f=false) - Chapter 5 of Steve McConnell's book "Code Complete"
+* [Design in Construction](http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf#page=110) - Chapter 5 of Steve McConnell's book "Code Complete"
 
 ### Culture
 
