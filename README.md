@@ -8,6 +8,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Basic
 
+* [BDUF: A arte de fazer coisas que não deveriam ser feitas](https://www.knowledge21.com.br/blog/bduf) - Rodrigo de Toledo
 * [Empty - The Codeless Code](http://thecodelesscode.com/case/6) - Qi
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Chris Beams
 * [How To Write Unmaintainable Code](https://web.archive.org/web/20171224114025id_/https://www.thc.org/root/phun/unmaintain.html) - Roedy Green
