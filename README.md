@@ -19,10 +19,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Intermediary/Advanced
 
+* [Design in Construction](http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf#page=110) - Chapter 5 of Steve McConnell's book "Code Complete"
 * [Move Fast and Fix Things](https://githubengineering.com/move-fast/) - Vicent Martí
 * [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) -  Nathaniel J. Smith
-* [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) - Joel Spolsky
-* [Design in Construction](http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf#page=110) - Chapter 5 of Steve McConnell's book "Code Complete"
+* [Lessons from 6 software rewrite stories](https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22) - Herb Caudill
 
 ### Culture
 
@@ -48,5 +48,4 @@ Some criteria we used to create the list:
 To contribute, if you are outside ESSS Org, edit this file (you can do this through the GitHub UI), add the
 title/link/author in the correct position to keep the list sorted and submit the change as a PR.
 
-If you are inside ESSS Org, first share the article/talk via Chat or on Dev mailing list. If you get a good
-number of thumbs up `>=3`, submit the PR as explained above.
+If you are inside ESSS Org, first share the article/talk via Chat or on Dev mailing list. If you get some thumbs up, submit the PR as explained above.
