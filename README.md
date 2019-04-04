@@ -8,10 +8,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Basic
 
-* [BDUF: A arte de fazer coisas que não deveriam ser feitas](https://www.knowledge21.com.br/blog/bduf) - Rodrigo de Toledo
+* [BDUF: The art of doing things which shouldn’t be done](https://knowledge21.com/usa/blog/bduf/) - Rodrigo de Toledo
 * [Empty - The Codeless Code](http://thecodelesscode.com/case/6) - Qi
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Chris Beams
-* [How To Write Unmaintainable Code](https://web.archive.org/web/20171224114025id_/https://www.thc.org/root/phun/unmaintain.html) - Roedy Green
 * [Steps to better code](https://medium.com/@isaaclyman/steps-to-better-code-e6c3cce0c7f9) - Isaac Lyman
 * [The Opposite of Fitts' Law](https://blog.codinghorror.com/the-opposite-of-fitts-law/) - Jeff Atwood
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
@@ -27,6 +26,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Culture
 
 * [Code culture problem](http://fraustollc.com/blog/shit_code/) - Nolan Frausto
+* [How To Write Unmaintainable Code](https://web.archive.org/web/20171224114025id_/https://www.thc.org/root/phun/unmaintain.html) - Roedy Green
 * [Python Culture](https://svn.python.org/projects/sandbox/trunk/dev/culture.rst) - python.org historic document
 * [Top 7 programmers bad habits](https://web.archive.org/web/20110803100310/http://www.makinggoodsoftware.com/2011/05/23/top-7-programmers-bad-habits) - Alberto Gutierrez
 
