@@ -34,7 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Talks
 
 * [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go&t=0s&list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA&index=4) - Raymond Hettinger
-* [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII&list=WL&index=21&t=1536s) - Bret Victor
+* [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII) - Bret Victor
 
 ### How to Contribute
 
