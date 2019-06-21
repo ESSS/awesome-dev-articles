@@ -23,12 +23,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) -  Nathaniel J. Smith
 * [Lessons from 6 software rewrite stories](https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22) - Herb Caudill
 * [Python API Checklist](https://devchecklists.com/python-api-checklist/en) - Flávio Juvenal da Silva Junior
+* [PyQt Gotchas](https://stefanoborini.com/pyqt-gotchas/) - Stefano Borini
 
 ### Culture
 
 * [Code culture problem](http://fraustollc.com/blog/shit_code/) - Nolan Frausto
 * [How To Write Unmaintainable Code](https://web.archive.org/web/20171224114025id_/https://www.thc.org/root/phun/unmaintain.html) - Roedy Green
 * [Python Culture](https://svn.python.org/projects/sandbox/trunk/dev/culture.rst) - python.org historic document
+* [TechnicalDebt](https://martinfowler.com/bliki/TechnicalDebt.html) - Martin Fowler
 * [Top 7 programmers bad habits](https://web.archive.org/web/20110803100310/http://www.makinggoodsoftware.com/2011/05/23/top-7-programmers-bad-habits) - Alberto Gutierrez
 
 ## Talks
