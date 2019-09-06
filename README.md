@@ -15,6 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [The Opposite of Fitts' Law](https://blog.codinghorror.com/the-opposite-of-fitts-law/) - Jeff Atwood
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
 * [The Ugly American Programmer](https://blog.codinghorror.com/the-ugly-american-programmer/) - Jeff Atwood
+* [How to do a code review - Google's best practices](https://google.github.io/eng-practices/review/reviewer) - Google
 
 ### Intermediary/Advanced
 
