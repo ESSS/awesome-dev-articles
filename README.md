@@ -25,6 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Lessons from 6 software rewrite stories](https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22) - Herb Caudill
 * [Python API Checklist](https://devchecklists.com/python-api-checklist/en) - Flávio Juvenal da Silva Junior
 * [PyQt Gotchas](https://stefanoborini.com/pyqt-gotchas/) - Stefano Borini
+* [Timeouts and cancellation for humans](https://vorpus.org/blog/timeouts-and-cancellation-for-humans/) - Nathaniel J. Smith
 
 ### Culture
 
@@ -36,8 +37,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Talks
 
-* [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go&t=0s&list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA&index=4) - Raymond Hettinger
 * [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII) - Bret Victor
+* [The Naming of Ducks: Where Dynamic Types Meet Smart Conventions](https://www.youtube.com/watch?v=YklKUuDpX5c&list=WL) - Brandon Rhodes
+* [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go&t=0s&list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA&index=4) - Raymond Hettinger
 
 ### How to Contribute
 
