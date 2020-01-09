@@ -34,6 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Python Culture](https://svn.python.org/projects/sandbox/trunk/dev/culture.rst) - python.org historic document
 * [TechnicalDebt](https://martinfowler.com/bliki/TechnicalDebt.html) - Martin Fowler
 * [Top 7 programmers bad habits](https://web.archive.org/web/20110803100310/http://www.makinggoodsoftware.com/2011/05/23/top-7-programmers-bad-habits) - Alberto Gutierrez
+* [When Good Software is Enough](https://www.liamwho.com/wp-content/uploads/When-Good-Enough-Software-Is-Best.pdf) - Edward Yourdon
 
 ## Talks
 
