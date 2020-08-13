@@ -39,8 +39,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Talks
 
 * [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII) - Bret Victor
+* [The End Of Object Inheritance & The Beginning Of A New Modularity](https://youtu.be/3MNVP9-hglc) - Augie Fackler & Nathaniel Manista
 * [The Naming of Ducks: Where Dynamic Types Meet Smart Conventions](https://www.youtube.com/watch?v=YklKUuDpX5c&list=WL) - Brandon Rhodes
 * [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go&t=0s&list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA&index=4) - Raymond Hettinger
+
 
 ### How to Contribute
 
