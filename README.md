@@ -43,6 +43,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [The Naming of Ducks: Where Dynamic Types Meet Smart Conventions](https://www.youtube.com/watch?v=YklKUuDpX5c&list=WL) - Brandon Rhodes
 * [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go&t=0s&list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA&index=4) - Raymond Hettinger
 
+## Books
+
+* [Architecture Patterns with Python](https://www.cosmicpython.com/) (a.k.a. Cosmic Python) - Harry J. W. Percival & Bob Gregory
+* [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/) - Luciano Ramalho
 
 ### How to Contribute
 
