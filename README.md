@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Steps to better code](https://medium.com/@isaaclyman/steps-to-better-code-e6c3cce0c7f9) - Isaac Lyman
 * [The Opposite of Fitts' Law](https://blog.codinghorror.com/the-opposite-of-fitts-law/) - Jeff Atwood
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
+* [The Little Book of Python Anti-Patterns](https://quantifiedcode.github.io/python-anti-patterns/) - QuantifiedCode
 * [The most critical Python code metric](https://stevedower.id.au/blog/most-critical-python-metric) - Steve Dower
 * [The Ugly American Programmer](https://blog.codinghorror.com/the-ugly-american-programmer/) - Jeff Atwood
 
