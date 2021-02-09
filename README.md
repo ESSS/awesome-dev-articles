@@ -10,7 +10,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [BDUF: A arte de fazer coisas que não deveriam ser feitas](https://knowledge21.com.br/blog/bduf/) - Rodrigo de Toledo ([english version](https://knowledge21.com/usa/blog/bduf/))
 * [Empty - The Codeless Code](http://thecodelesscode.com/case/6) - Qi
-* [How to do a code review - Google's best practices](https://google.github.io/eng-practices/review/reviewer) - Google
 * [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/) - Michael Lynch
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Chris Beams
 * [Steps to better code](https://medium.com/@isaaclyman/steps-to-better-code-e6c3cce0c7f9) - Isaac Lyman
