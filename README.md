@@ -8,7 +8,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Basic
 
-* [BDUF: A arte de fazer coisas que não deveriam ser feitas](https://knowledge21.com.br/blog/bduf/) - Rodrigo de Toledo ([english version](https://knowledge21.com/usa/blog/bduf/))
+* [BDUF: A arte de fazer coisas que não deveriam ser feitas](https://k21.global/br/blog/bduf) - Rodrigo de Toledo ([english version](https://knowledge21.com/usa/blog/bduf/))
 * [Empty - The Codeless Code](http://thecodelesscode.com/case/6) - Qi
 * [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/) - Michael Lynch
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Chris Beams
