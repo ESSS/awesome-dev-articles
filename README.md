@@ -21,6 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Intermediary/Advanced
 
+* [Flaky tests](https://docs.pytest.org/en/stable/explanation/flaky.html) - pytest documentation
 * [Design in Construction](http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf#page=110) - Chapter 5 of Steve McConnell's book "Code Complete"
 * [Move Fast and Fix Things](https://githubengineering.com/move-fast/) - Vicent Martí
 * [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) -  Nathaniel J. Smith
