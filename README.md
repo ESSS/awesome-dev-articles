@@ -14,10 +14,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Chris Beams
 * [Steps to better code](https://medium.com/@isaaclyman/steps-to-better-code-e6c3cce0c7f9) - Isaac Lyman
 * [The Opposite of Fitts' Law](https://blog.codinghorror.com/the-opposite-of-fitts-law/) - Jeff Atwood
-* [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
+* [The Grug Brained Developer](https://grugbrain.dev/) - _unknown author_
 * [The Little Book of Python Anti-Patterns](https://quantifiedcode.github.io/python-anti-patterns/) - QuantifiedCode
 * [The most critical Python code metric](https://stevedower.id.au/blog/most-critical-python-metric) - Steve Dower
-* [The Ugly American Programmer](https://blog.codinghorror.com/the-ugly-american-programmer/) - Jeff Atwood
 
 ### Intermediary/Advanced
 
@@ -36,6 +35,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [How To Write Unmaintainable Code](https://web.archive.org/web/20171224114025id_/https://www.thc.org/root/phun/unmaintain.html) - Roedy Green
 * [Python Culture](https://svn.python.org/projects/sandbox/trunk/dev/culture.rst) - python.org historic document
 * [TechnicalDebt](https://martinfowler.com/bliki/TechnicalDebt.html) - Martin Fowler
+* [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
+* [The Ugly American Programmer](https://blog.codinghorror.com/the-ugly-american-programmer/) - Jeff Atwood
 * [Top 7 programmers bad habits](https://web.archive.org/web/20110803100310/http://www.makinggoodsoftware.com/2011/05/23/top-7-programmers-bad-habits) - Alberto Gutierrez
 * [When Good Software is Enough](https://www.liamwho.com/wp-content/uploads/When-Good-Enough-Software-Is-Best.pdf) - Edward Yourdon
 
