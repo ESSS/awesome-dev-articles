@@ -8,13 +8,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Basic
 
-* [BDUF: A arte de fazer coisas que não deveriam ser feitas](https://k21.global/br/blog/bduf) - Rodrigo de Toledo ([english version](https://knowledge21.com/usa/blog/bduf/))
 * [Empty - The Codeless Code](http://thecodelesscode.com/case/6) - Qi
 * [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/) - Michael Lynch
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Chris Beams
 * [Steps to better code](https://medium.com/@isaaclyman/steps-to-better-code-e6c3cce0c7f9) - Isaac Lyman
-* [The Opposite of Fitts' Law](https://blog.codinghorror.com/the-opposite-of-fitts-law/) - Jeff Atwood
+* [The Biggest Mistake I See Engineers Make](https://thezbook.com/the-biggest-mistake-i-see-engineers-make) - Zach Lloyd
 * [The Grug Brained Developer](https://grugbrain.dev/) - _unknown author_
+* [The Opposite of Fitts' Law](https://blog.codinghorror.com/the-opposite-of-fitts-law/) - Jeff Atwood
 * [The Little Book of Python Anti-Patterns](https://quantifiedcode.github.io/python-anti-patterns/) - QuantifiedCode
 * [The most critical Python code metric](https://stevedower.id.au/blog/most-critical-python-metric) - Steve Dower
 
