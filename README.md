@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Empty - The Codeless Code](http://thecodelesscode.com/case/6) - Qi
 * [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/) - Michael Lynch
+* [How to do a code review](https://google.github.io/eng-practices/review/reviewer) - Google Engineering Practices Documentation
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Chris Beams
 * [Steps to better code](https://medium.com/@isaaclyman/steps-to-better-code-e6c3cce0c7f9) - Isaac Lyman
 * [The Biggest Mistake I See Engineers Make](https://thezbook.com/the-biggest-mistake-i-see-engineers-make) - Zach Lloyd
