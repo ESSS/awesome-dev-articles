@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Python API Checklist](https://devchecklists.com/python-api-checklist/en) - Flávio Juvenal da Silva Junior
 * [PyQt Gotchas](https://stefanoborini.com/pyqt-gotchas/) - Stefano Borini
 * [Timeouts and cancellation for humans](https://vorpus.org/blog/timeouts-and-cancellation-for-humans/) - Nathaniel J. Smith
+* [SOLID principles in Python](https://realpython.com/solid-principles-python) - Real Python
 
 ### Culture
 
