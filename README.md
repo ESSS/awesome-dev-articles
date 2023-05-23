@@ -27,6 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Python API Checklist](https://devchecklists.com/python-api-checklist/en) - Flávio Juvenal da Silva Junior
 * [PyQt Gotchas](https://stefanoborini.com/pyqt-gotchas/) - Stefano Borini
 * [SOLID principles in Python](https://realpython.com/solid-principles-python) - Real Python
+* [Writing Python like it is Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html) - Kobzol's blog
 
 ### Advanced
 
