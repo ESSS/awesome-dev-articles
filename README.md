@@ -24,7 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Flaky tests](https://docs.pytest.org/en/stable/explanation/flaky.html) - pytest documentation
 * [Design in Construction](http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf#page=110) - Chapter 5 of Steve McConnell's book "Code Complete"
 * [Move Fast and Fix Things](https://githubengineering.com/move-fast/) - Vicent Martí
-* [Python API Checklist](https://devchecklists.com/python-api-checklist/en) - Flávio Juvenal da Silva Junior
+* [Python API Checklist](https://devchecklists.com/checklist/python-api-checklist/en) - Flávio Juvenal da Silva Junior
 * [PyQt Gotchas](https://stefanoborini.com/pyqt-gotchas/) - Stefano Borini
 * [SOLID principles in Python](https://realpython.com/solid-principles-python) - Real Python
 * [Writing Python like it is Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html) - Kobzol's blog
