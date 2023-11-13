@@ -47,6 +47,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Top 7 programmers bad habits](https://web.archive.org/web/20110803100310/http://www.makinggoodsoftware.com/2011/05/23/top-7-programmers-bad-habits) - Alberto Gutierrez
 * [When Good Software is Enough](https://www.liamwho.com/wp-content/uploads/When-Good-Enough-Software-Is-Best.pdf) - Edward Yourdon
 
+### Communication
+
+* [The XY Problem](https://xyproblem.info/)
+* [No Hello](https://nohello.net/)
+
 ## Talks
 
 * [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII) - Bret Victor
