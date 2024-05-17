@@ -19,6 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [The Opposite of Fitts' Law](https://blog.codinghorror.com/the-opposite-of-fitts-law/) - Jeff Atwood
 * [The Little Book of Python Anti-Patterns](https://quantifiedcode.github.io/python-anti-patterns/) - QuantifiedCode
 * [The most critical Python code metric](https://stevedower.id.au/blog/most-critical-python-metric) - Steve Dower
+* [Python Design Patterns](https://python-patterns.guide)
 
 ### Intermediary
 
