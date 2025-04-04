@@ -10,8 +10,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Empty - The Codeless Code](http://thecodelesscode.com/case/6) - Qi
 * [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/) - Michael Lynch
-* [How to do a code review](https://google.github.io/eng-practices/review/reviewer) - Google Engineering Practices Documentation
-* [The 10 Commandments of Navigating Code Reviews](https://angiejones.tech/ten-commandments-code-reviews) - Angie Jones
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Chris Beams
 * [Steps to better code](https://medium.com/@isaaclyman/steps-to-better-code-e6c3cce0c7f9) - Isaac Lyman
 * [The Biggest Mistake I See Engineers Make](https://thezbook.com/the-biggest-mistake-i-see-engineers-make) - Zach Lloyd
@@ -19,14 +17,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [The Opposite of Fitts' Law](https://blog.codinghorror.com/the-opposite-of-fitts-law/) - Jeff Atwood
 * [The Little Book of Python Anti-Patterns](https://quantifiedcode.github.io/python-anti-patterns/) - QuantifiedCode
 * [The most critical Python code metric](https://stevedower.id.au/blog/most-critical-python-metric) - Steve Dower
-* [Python Design Patterns](https://python-patterns.guide)
 
 ### Intermediary
 
 * [Flaky tests](https://docs.pytest.org/en/stable/explanation/flaky.html) - pytest documentation
 * [Design in Construction](http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf#page=110) - Chapter 5 of Steve McConnell's book "Code Complete"
+* [How to do a code review](https://google.github.io/eng-practices/review/reviewer) - Google Engineering Practices Documentation
 * [Move Fast and Fix Things](https://githubengineering.com/move-fast/) - Vicent Martí
 * [Python API Checklist](https://devchecklists.com/checklist/python-api-checklist/en) - Flávio Juvenal da Silva Junior
+* [Python Design Patterns](https://python-patterns.guide)
 * [PyQt Gotchas](https://stefanoborini.com/pyqt-gotchas/) - Stefano Borini
 * [SOLID principles in Python](https://realpython.com/solid-principles-python) - Real Python
 * [Writing Python like it is Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html) - Kobzol's blog
