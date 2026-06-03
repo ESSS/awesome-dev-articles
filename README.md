@@ -8,6 +8,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Basic
 
+* [Cognitive Load is What Matters](https://minds.md/zakirullin/cognitive#long) - Artem Zakirullin
 * [Empty - The Codeless Code](http://thecodelesscode.com/case/6) - Qi
 * [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/) - Michael Lynch
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Chris Beams
@@ -62,8 +63,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Books
 
+* [A Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design) - John Ousterhout
 * [Architecture Patterns with Python](https://www.cosmicpython.com/) (a.k.a. Cosmic Python) - Harry J. W. Percival & Bob Gregory
 * [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/) - Luciano Ramalho
+* [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) - David Thomas and Andrew Hunt
 
 ### How to Contribute
 
